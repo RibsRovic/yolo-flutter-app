@@ -20,7 +20,7 @@ Before proceeding further or reporting new issues, please ensure you read this d
 
 ## Usage
 
-Ultralytics YOLO is designed specifically for mobile platforms, targeting iOS and Android apps. The plugin leverages Flutter Platform Channels for communication between the client (_app_/_plugin_) and host (_platform_), ensuring seamless integration and responsiveness. All processing related to Ultralytics YOLO APIs is handled natively using Flutter's native APIs, with the plugin serving as a bridge between your app and Ultralytics YOLO. test
+Ultralytics YOLO is designed specifically for mobile platforms, targeting iOS and Android apps. The plugin leverages Flutter Platform Channels for communication between the client (_app_/_plugin_) and host (_platform_), ensuring seamless integration and responsiveness. All processing related to Ultralytics YOLO APIs is handled natively using Flutter's native APIs, with the plugin serving as a bridge between your app and Ultralytics YOLO.
 
 ### Prerequisites
 
