@@ -26,7 +26,7 @@ Ultralytics YOLO is designed specifically for mobile platforms, targeting iOS an
 
 #### Export Ultralytics YOLO Models
 
-Before you can use Ultralytics YOLO in your app, you must export the required models. The exported models are in the form of `.tflite` and `.mlmodel` files, which you can then include in your app. Use the Ultralytics YOLO CLI to export the models.
+Before you can use Ultralytics YOLO in your app, you must export the required models. The exported models are in the form of `.tflite` and `.mlmodel` files, which you can then include in your app. Use the Ultralytics YOLO CLI to export the models. test again
 
 > IMPORTANT: The parameters in the commands above are mandatory. Ultralytics YOLO plugin for Flutter only supports the models exported using the commands above. If you use different parameters, the plugin will not work as expected. We're working on adding support for more models and parameters in the future.
 
